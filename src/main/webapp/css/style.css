@@ -1,0 +1,33 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Oct 10, 2016, 6:57:20 PM
+    Author     : Guna
+*/
+
+.table {
+    
+    border : 1px solid black;
+    
+}
+
+.tablerow  {
+    
+    border : 1px solid black;
+    padding: 5pt;
+    
+}
+
+table tr:nth-child(2n) {
+    background : lightblue;
+}
+
+.tabledata {
+    
+    border : 1px solid grey;
+    padding: 5pt;
+    
+}
